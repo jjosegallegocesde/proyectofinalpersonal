@@ -78,8 +78,18 @@ export function Home(){
             <section>
                 <div class="container-fluid">
                     <div class="row">
+                        <div class="col-12">
+                            <h1>NOTICIAS</h1>
+                            <hr/>
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-12 col-md-4">
                            <img src="https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/noticia1.jpg?alt=media&token=9e1fb4de-d6ea-468f-bc92-90f40ab7be62" alt="" class="img-fluid w-100"/>
+                           <p>
+                                kjdakladsjdasjadsj
+                                +asdjdsajadsjdas
+                           </p>
                         </div>
                         <div class="col-12 col-md-4">
                            <img src="https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/noticia2.webp?alt=media&token=83bf541c-e9eb-4d28-96ed-3211e7f51207" alt="" class="img-fluid w-100"/>
