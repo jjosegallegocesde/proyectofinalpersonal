@@ -5,6 +5,7 @@ import {Menu} from '../shared/Menu/Menu'
 import {Historia} from '../Historia/Historia'
 import {Integrantes} from '../Integrantes/Integrantes'
 import {Mercancia} from '../Mercancia/Mercancia'
+import { AmpliarInfo } from "../AmpliarInfo/AmpliarInfo"
 
 export function Rutas(){
     return (
@@ -15,6 +16,7 @@ export function Rutas(){
                 <Route path="/historia" element={<Historia />} />
                 <Route path="/integrantes" element={<Integrantes />} />
                 <Route path="/mercancias" element={<Mercancia />} />
+                <Route path="/tienda" element={<AmpliarInfo />} />
             </Routes>
         </>
         
